@@ -1,0 +1,62 @@
+   ROLL NO                                              NAME         C       CPP    PYTHON
+20021A0501                          ANUMALISETTI MOKSHA SREE    072.38    091.29    057.46
+20021A0502                                BODDEPALLI LAVANYA    069.81    090.80    057.70
+20021A0503                             CHANDU LALITHA HARINI    095.57    044.15    087.94
+20021A0504                               DALIA BHANU JINAGAM    054.86    073.32    060.92
+20021A0505                             GADE SRUJANA GAYATHRI    047.13    070.04    045.97
+20021A0506                               JANGAM PAVAN KALYAN    051.37    041.13    046.50
+20021A0507                                    JAYANTH PEDADA    046.95    090.84    066.29
+20021A0508                                  JETTI SASI KIRAN    082.13    060.42    070.59
+20021A0509                                MOHAMMOD KARIMULLA    092.37    056.15    097.27
+20021A0510                                    NALLA SPANDANA    079.39    040.56    042.37
+20021A0511               NALLA SYAMALA RATNA SAI MAHALAKSHMI    099.54    093.66    064.30
+20021A0512                                     PARAPATI TEJA    076.22    043.27    083.58
+20021A0513                                   QUANITHA KHANAM    055.25    079.10    071.57
+20021A0514                                   RAVILLA DHARANI    050.96    086.22    086.48
+20021A0515                           RAYALAVARAPU SATYA AJAY    080.12    087.78    093.41
+20021A0516                                    SATTI CHATURYA    072.69    070.86    064.02
+20021A0517                                     TELUGU SAISRI    081.09    070.03    070.14
+20021A0518                                    TULUGU JAYANTH    078.85    069.65    072.29
+20021A0519                                    ALLADI SANDHYA    067.96    089.02    044.29
+20021A0520                              BOTSA VEDA VARSHITHA    070.96    078.41    097.58
+20021A0521              GANDUBOYINA SHYAM SAI VENKAT ATCHYUT    077.18    042.37    040.89
+20021A0522                                   MAGAPU NIHARIKA    095.57    061.34    066.35
+20021A0523                            MOPIDEVI PRAVEEN KUMAR    054.76    064.42    062.88
+20021A0524                               MORAM AKSHITHA DEVI    077.82    060.69    098.45
+20021A0525                                PULLAKHANDAM POOJA    098.62    094.77    086.70
+20021A0526                          SARIPELLA SURENDRA VARMA    098.22    061.67    051.44
+20021A0527                             SATHI VENKATA MEGHANA    067.35    071.02    096.38
+20021A0528                                     SHAIK RIZAFAR    061.12    056.67    046.27
+20021A0529                                  THOTA NAGA VAMSI    042.01    065.64    093.87
+20021A0530         SUNKARA SREE VEERA VIJAYA MANI DHANA RAJU    064.98    089.91    087.12
+20021A0531                        PILLI VENKATA ADITYA KUMAR    044.90    089.28    075.22
+20021A0532                             THONDUPU LEELA ANITHA    095.00    093.11    049.18
+20021A0534                          VADITHE PARAM JOSHI NAIK    093.41    054.22    055.51
+20021A0535                                ANDE JAGADEESH RAM    086.07    074.29    075.94
+20021A0536                              BHUVANAGIRI ABHIJITH    074.65    043.00    068.59
+20021A0537                                    DAYANA KARTHIK    045.70    044.36    078.33
+20021A0538                                GANDIKOTA SUSMITHA    079.19    097.92    046.78
+20021A0539                     GUDAPATI VENKATA NAGA SANDEEP    098.01    045.80    088.43
+20021A0540                                    MARNI YASWANTH    057.48    079.76    095.47
+20021A0541                               PATTAPUSETTI SWETHA    088.10    081.21    067.61
+20021A0542                                     TALATAM RAMYA    044.80    053.17    063.49
+20021A0543                  VARANASI NAGASAI PRANAV AKHILESH    048.89    079.18    095.09
+20021A0544                                       GUTTI KAVYA    090.39    078.58    059.24
+20021A0545                        MARAMREDDY VIKHYATHA REDDY    090.96    046.30    048.29
+20021A0546                           PATCHERLA SAI CHAITANYA    099.57    086.07    088.10
+20021A0547                             VARI NAGA VINAY REDDY    050.19    051.26    040.07
+20021A0548                           BOSI GARI BHASKAR REDDY    066.45    090.84    067.14
+20021A0549                                 UPPUTURI SRI HARI    053.98    089.13    051.67
+20021A0550                               CHEEDELLA SIVAKUMAR    065.00    074.15    052.44
+20021A0551                          PATHAN ALTHAF VAHID KHAN    080.13    051.30    090.22
+20021A0552                             RUPA ANUSHA PENUGONDA    083.17    065.69    078.57
+20021A0556                                  ZAHOOR AHMAD DAR    094.43    062.85    047.64
+20021A0557                                 SUHEEL AHMAD LONE    044.15    096.78    044.39
+20021A0559                         SYED ZUBAIR AHMAD BUKHARI    066.06    063.27    058.15
+20021A0560                           SWARNA RAMYA SRI PATTEM    060.53    055.57    050.98
+20021A0561                                  SURYA TEJ PATTEM    061.71    093.44    053.30
+20021A0562                        MARELLAPUDI VENKATA ADITYA    086.76    043.58    089.48
+20021A0563                                    NAKKA BHAVITHA    060.67    059.95    057.17
+20021A0564                               GANTY NARASIMHA RAO    074.15    099.44    070.32
+20021A0565                                   GHANTA HARSHITH    042.23    043.93    092.57
+20021A0566                                VITAKULA SATYAMANI    092.53    093.15    043.32
