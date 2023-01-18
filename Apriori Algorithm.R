@@ -1,6 +1,5 @@
 # Loading Libraries
 library(arules)
-library(arulesViz)
 library(RColorBrewer)
 
 # import dataset
@@ -17,5 +16,4 @@ inspect(rules[1:5])
 arules::itemFrequencyPlot(Groceries, topN = 7,
                           col = brewer.pal(8, 'Pastel2'),
                           main = 'Relative Item Frequency Plot',
-                          type = "relative",
                           ylab = "Item Frequency (Relative)")
